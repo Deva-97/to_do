@@ -55,3 +55,6 @@ android/key.properties
 # IDE crash reports / system logs
 *.hprof
 *.stacktrace
+
+echo "lib/firebase_options.dart"
+echo "public/edit/index.html"
